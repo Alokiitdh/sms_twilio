@@ -1,0 +1,10 @@
+[project]
+name = "sms-twilio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "twilio>=9.11.2",
+]
